@@ -1,0 +1,7 @@
+# Ignore the below directories
+/bin
+/lib
+/etc
+/share
+/include
+/test
